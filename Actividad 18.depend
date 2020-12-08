@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1607340018 source:d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\aldeanos.cpp
+	"aldeanos.h"
+	<algorithm>
+	<fstream>
+
+1607339568 d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\aldeanos.h
+	<iostream>
+	<iomanip>
+
+1607358861 source:d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\main.cpp
+	<iostream>
+	"Videogame.h"
+	<vector>
+
+1607341560 d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\videogame.h
+	"Civilizacion.h"
+	<vector>
+
+1607353435 d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\civilizacion.h
+	<iostream>
+	<iomanip>
+	"aldeanos.h"
+	<list>
+
+1607202835 source:d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\videogame.cpp
+	"Videogame.h"
+	<fstream>
+	<algorithm>
+
+1607351672 source:d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\civilizacion.cpp
+	"Civilizacion.h"
+	<fstream>
+	<algorithm>
+
+1607106739 d:\documents\ingeniería en informatica\seminario de solucion de estructura de datos 1\actividad 18\menu.h
+
